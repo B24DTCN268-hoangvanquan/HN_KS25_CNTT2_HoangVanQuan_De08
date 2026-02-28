@@ -25,3 +25,10 @@ button {
 .main img {
   width: 100%;
 }
+.main1 {
+  padding: 40px;
+}
+.footer {
+  padding: 30px;
+  background-color: white;
+}
